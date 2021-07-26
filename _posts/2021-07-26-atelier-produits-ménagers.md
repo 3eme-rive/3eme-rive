@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Atelier produits ménagers
+title: Atelier produits ménagers du 31 juillet
 date: 2021-07-26T11:40:07.006Z
 image_teaser: /images/uploads/atelier-i-produits-ménagers.png
 ---
