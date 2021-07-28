@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ciné-débat avec l'APF le mardi 10 août
+title: Ciné-débat avec l'APF le 10 août
 date: 2021-07-28T14:30:23.928Z
 image_teaser: /images/uploads/capture-d’écran-2021-07-28-162620.png
 ---
