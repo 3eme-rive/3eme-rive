@@ -9,4 +9,4 @@ Une belle idée à germer à 3° Rive !
 
 Voici l'addition tout en récup' :
 
-Des tonneaux + de la lisière = une nouveauté déco pour le local Ailleurs !
+Des tonneaux + de la lisière = une nouvelle décoration pour le local Ailleurs !
