@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Journée d'animation du 16 septembre sur le thème des Droits culturels -
-  Café Associatif
+title: Journée d'animation du 16 septembre sur le thème des Droits culturels
 date: 2021-08-29T18:39:18.672Z
 image_teaser: /images/uploads/651b825d-8f32-c21e-0be7-024a3e19981d.jpeg
 ---
